@@ -1,11 +1,10 @@
 # Deep Learning for Automatic Pancreas Cancer Segmentation and Classification in 3D CT Scans
-**UHN WangLab Take-home Quiz | Minh Le**
 
 Accurate pancreas cancer segmentation and subtype classification in 3D CT scans is a crucial step in computer-aided diagnosis and treatment planning. In this project, we present a **multi-task deep learning** approach that simultaneously performs:
 1. **Pancreas and lesion segmentation**, and  
 2. **Lesion subtype classification**.
 
-Building upon the [nnU-Net framework][1], we incorporate a classification branch into the shared encoder–decoder architecture, taking inspiration from the [PANDA approach][2]. Our method processes each volumetric CT scan in a unified pipeline, generating both segmentation maps and subtype predictions.
+Building upon the [nnU-Net framework], we incorporate a classification branch into the shared encoder–decoder architecture, taking inspiration from the [PANDA approach]. Our method processes each volumetric CT scan in a unified pipeline, generating both segmentation maps and subtype predictions.
 
 
 ---
