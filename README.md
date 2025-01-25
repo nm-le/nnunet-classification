@@ -139,22 +139,7 @@ Below are the results for our **best-performing** configuration:
 - **Batch size**: 8  
 
 ### Segmentation Results
-
-| DSC Scores (Selected Cases) | DSC Scores (Selected Cases) | DSC Scores (Selected Cases) |
-|:---------------------------:|:---------------------------:|:---------------------------:|
-| `quiz_0_168.nii.gz: 0.8356` | `quiz_0_171.nii.gz: 0.8878` | `quiz_0_174.nii.gz: 0.8384` |
-| `quiz_0_184.nii.gz: 0.9285` | `quiz_0_187.nii.gz: 0.9321` | `quiz_0_189.nii.gz: 0.9392` |
-| `quiz_0_244.nii.gz: 0.9197` | `quiz_0_253.nii.gz: 0.9332` | `quiz_0_254.nii.gz: 0.9023` |
-| `quiz_1_090.nii.gz: 0.8455` | `quiz_1_093.nii.gz: 0.8850` | `quiz_1_094.nii.gz: 0.9523` |
-| `quiz_1_154.nii.gz: 0.8846` | `quiz_1_158.nii.gz: 0.9242` | `quiz_1_164.nii.gz: 0.8672` |
-| `quiz_1_166.nii.gz: 0.9328` | `quiz_1_211.nii.gz: 0.8513` | `quiz_1_213.nii.gz: 0.9210` |
-| `quiz_1_221.nii.gz: 0.9565` | `quiz_1_227.nii.gz: 0.9228` | `quiz_1_231.nii.gz: 0.9468` |
-| `quiz_1_242.nii.gz: 0.9334` | `quiz_1_331.nii.gz: 0.8959` | `quiz_1_335.nii.gz: 0.9172` |
-| `quiz_2_074.nii.gz: 0.9415` | `quiz_2_080.nii.gz: 0.9312` | `quiz_2_084.nii.gz: 0.9170` |
-| `quiz_2_085.nii.gz: 0.9449` | `quiz_2_088.nii.gz: 0.7558` | `quiz_2_089.nii.gz: 0.8434` |
-| `quiz_2_098.nii.gz: 0.9151` | `quiz_2_191.nii.gz: 0.7353` | `quiz_2_241.nii.gz: 0.9594` |
-| `quiz_2_364.nii.gz: 0.8668` | `quiz_2_377.nii.gz: 0.8688` | `quiz_2_379.nii.gz: 0.9625` |
-| **Average DSC**: **0.8999** |                               |                               |
+**Average DSC**: **0.8999**
 
 ### Classification Results (One-vs-Rest AUC)
 
